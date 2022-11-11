@@ -13,6 +13,7 @@ db.commit()  # saving the changes
 db.close()  # closing the connection
 
 # this is tmp comment
+#this is comment2
 
 
 class user:
